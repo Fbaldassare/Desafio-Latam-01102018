@@ -1,0 +1,12 @@
+@media (max-width: 400) {
+body{
+background: green;
+}
+@media (max-width: 600px) {
+body{
+background: yellow
+}
+@media (max-width: 800px) {
+body{
+background: red;
+}
