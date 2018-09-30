@@ -1,7 +1,9 @@
-.small{
-	font-size: 1.2em;
+.small {
+	font-size: 1.2em; /*vinculado a su elemento padre*/"
 }
 
-.mini{
-	font-size: 1.2em;
+.mini {
+	font-size: 1.2rem; /*vinculado a su elemento padre*/
 }
+
+/*unidades de medidas diferentes, que tienen la misma proporción en este caso*/
