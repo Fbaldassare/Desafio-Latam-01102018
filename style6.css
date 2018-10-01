@@ -29,4 +29,31 @@ h1 {
 	width: 100%;
 }
 
+@media (max-width: 480px){
 	
+	header {
+	box-sizing: 0px;
+	font-size: 4.5vw;
+	padding: 0px;
+	height: 55vw;
+	}
+
+	header h1 {
+		margin-top: 0px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.col-md-4 {
+		width: 100%;
+		font-size: 5vw;
+		float: left;
+		padding: 0px;
+		padding-left: 25vw;
+		padding-right: 25vw;
+		padding-top: 30px;
+		box-sizing: border-box;
+
+	}
+
+}
