@@ -1,6 +1,13 @@
+ 
+html {
+ 	font-size: 20px;
+}
+
 .clase1{
-font-size: 20px;
+	font-size: 20px;
 }
+
 .clase2{
-font-size: 16px; /*0.8 em - mi posible solución es hacer que tenga unidad de medida en px*/
+	font-size: 0.8rem; /*0.8 em - una posible solución es hacer que tenga unidad de medida en 16 px*/
 }
+
