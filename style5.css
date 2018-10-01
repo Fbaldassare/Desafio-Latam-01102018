@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	font-family: sans-serif;
 }
 
 header {
@@ -8,7 +9,15 @@ header {
 	text-transform: uppercase;
 	background-color: green;
 	padding: 30px;
+	color: white;
+
 }
+
+h1 {
+	font-weight: 300;
+}
+
+
 
 .col-md-4 {
 	width: 33%;
