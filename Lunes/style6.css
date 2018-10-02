@@ -32,10 +32,10 @@ h1 {
 @media (max-width: 480px){
 	
 	header {
-	box-sizing: 0px;
-	font-size: 4.5vw;
-	padding: 0px;
-	height: 55vw;
+	box-sizing: border-box;
+	font-size: 3vh;
+	padding: 0;
+	height: 40vh;
 	}
 
 	header h1 {
